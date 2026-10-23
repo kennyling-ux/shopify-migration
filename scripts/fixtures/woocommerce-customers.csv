@@ -1,0 +1,3 @@
+user_id,user_email,first_name,last_name,billing_phone,billing_address_1,billing_city,billing_state,billing_postcode,billing_country,user_registered,accepts_marketing
+1,amy@example.com,Amy,Tan,012-345 6789,1 Jalan A,Kuala Lumpur,KUL,50000,MY,2024-02-01 10:00:00,yes
+2,bad-email,Bob,Lee,,,,,,,2024-03-01,no

@@ -1,0 +1,16 @@
+{
+	"products": {
+		"title": ["Nama Produk", "Product Title (EN)"],
+		"price": ["Harga Jualan"],
+		"images": ["Gambar *"],
+		"optionNames": ["Colour", "Size"],
+		"useTitleForHandle": false
+	},
+	"customers": {
+		"acceptsMarketing": ["Newsletter Opt-in"]
+	},
+	"orders": {
+		"lineTitle": ["Produk"],
+		"addr1": ["{P} Street Line 1"]
+	}
+}

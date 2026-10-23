@@ -1,0 +1,6 @@
+ID,Type,SKU,Name,Published,Short description,Description,Sale price,Regular price,Categories,Tags,Images,Parent,Stock,Weight (kg),Attribute 1 name,Attribute 1 value(s),Attribute 2 name,Attribute 2 value(s)
+10,simple,LOT-01,Body Lotion,1,Light daily lotion,"<p>Our lotion.</p>",39.00,49.00,"Body > Lotion, Bestsellers","vegan, halal","https://example.com/a.jpg, https://example.com/b.jpg",,25,0.3,,,,
+20,variable,TEE,Logo Tee,1,,"Soft cotton tee",,,Apparel,,https://example.com/tee.jpg,,,,Color,"Red, Blue",Size,"S, M"
+21,variation,TEE-R-S,Logo Tee - Red S,1,,,,59.00,,,,id:20,5,0.2,Color,Red,Size,S
+22,variation,TEE-B-M,Logo Tee - Blue M,1,,,49.00,59.00,,,,id:20,0,0.2,Color,Blue,Size,M
+30,simple,OLD-1,Hidden Thing,0,,,,10.00,,,,,,,,,,

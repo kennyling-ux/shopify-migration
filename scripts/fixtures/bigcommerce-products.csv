@@ -1,0 +1,4 @@
+Item Type,Product ID,Product Name,Product Type,Product Code/SKU,Brand Name,Product Description,Price,Sale Price,Product Weight,Category,Current Stock Level,Product Image URL - 1,Product URL,Product Visible?
+Product,7,Cap,P,CAP,Acme,<p>Cap</p>,25,,0.1,Hats/Caps,0,https://cdn.bc/cap.jpg,/cap/,Y
+SKU,,"[S]Size=One,[RT]Color=Black",,CAP-BLK,,,25,,,,9,,,
+Rule,,,,,,,,,,,,,,

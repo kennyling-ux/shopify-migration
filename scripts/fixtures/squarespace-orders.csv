@@ -1,0 +1,4 @@
+Order ID,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Currency,Subtotal,Shipping,Taxes,Amount Refunded,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem sku,Billing Name,Billing Address1,Billing City,Billing Zip,Billing Country,Shipping Name,Shipping Address1,Shipping City,Shipping Zip,Shipping Country
+1001,amy@example.com,paid,2025-01-02 10:00,fulfilled,2025-01-03,MYR,35,5,0,0,40,,0,Standard,2025-01-02 09:58,1,Mug - White,15,MUG-W,Amy Tan,1 Jalan A,Kuala Lumpur,50000,MY,Amy Tan,1 Jalan A,Kuala Lumpur,50000,MY
+1001,,,,,,,,,,,,,,,,1,Mug - Black,20,MUG-B,,,,,,,,,,
+1002,cy@example.com,refunded,2025-02-01,unfulfilled,,MYR,20,0,0,20,20,WELCOME10,0,,2025-02-01,1,Mug - Black,20,MUG-B,Cy Ong,2 Jalan B,Penang,10000,MY,,,,,

@@ -1,0 +1,4 @@
+Code,Type,Amount,Minimum Spend,Expiry Date,Usage Limit,Used
+WELCOME10,percent,10,100,2030-12-31,,
+RM20OFF,fixed_cart,20,150,2020-01-01,100,3
+FREESHIP,free shipping,0,,,,

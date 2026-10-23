@@ -1,0 +1,4 @@
+handleId,fieldType,name,description,productImageUrl,collection,sku,price,visible,discountMode,discountValue,inventory,weight,productOptionName1,productOptionType1,productOptionDescription1
+p1,Product,Candle,<p>Soy candle</p>,abc~mv2.jpg;def~mv2.jpg,Home;Gifts,,60,true,PERCENT,10,,0.5,Scent,DROP_DOWN,Rose;Oud
+p1,Variant,,,,,CAN-ROSE,,,,,12,,,,Rose
+p1,Variant,,,,,CAN-OUD,,,,,InStock,,,,Oud

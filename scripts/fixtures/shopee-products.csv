@@ -1,0 +1,4 @@
+Product ID,Product Name,Product Description,Parent SKU,Variation ID,Variation Name,SKU,Price,Stock,Cover image,Item Image 1,Item Image 2
+111,Sacha Inchi Oil,Cold-pressed oil,SIO,9001,"100ml",SIO-100,45.90,10,https://cf.shopee/x1.jpg,https://cf.shopee/x2.jpg,
+111,Sacha Inchi Oil,Cold-pressed oil,SIO,9002,"250ml",SIO-250,89.90,4,https://cf.shopee/x1.jpg,,
+222,Body Scrub,Gentle scrub,BS,,,BS-1,29.00,8,https://cf.shopee/y1.jpg,,

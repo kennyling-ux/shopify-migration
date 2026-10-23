@@ -1,0 +1,3 @@
+Product ID [Non Editable],Variant ID [Non Editable],Product Type [Non Editable],Product Page,Product URL,Title,Description,SKU,Option Name 1,Option Value 1,Price,Sale Price,On Sale,Stock,Categories,Tags,Weight,Visible,Hosted Image URLs
+abc,v1,PHYSICAL,shop,/shop/p/mug,Mug,<p>Mug</p>,MUG-W,Color,White,20,15,Yes,3,Kitchen,ceramic,0.4,Yes,https://images.sqsp.com/1.jpg https://images.sqsp.com/2.jpg
+,v2,,,,,,MUG-B,,Black,20,,No,7,,,0.4,,
