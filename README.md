@@ -17,17 +17,17 @@ store credit, Malaysia/Southeast Asia specifics, and a client hand-over.
 
 **Any agent (Claude Code, Codex, Cursor …), with the skills CLI:**
 ```bash
-npx skills add <github-user>/shopify-migration
+npx skills add kennyling-ux/shopify-migration
 ```
 
 **Claude Code, by hand:**
 ```bash
-git clone https://github.com/<github-user>/shopify-migration ~/.claude/skills/shopify-migration
+git clone https://github.com/kennyling-ux/shopify-migration ~/.claude/skills/shopify-migration
 ```
 
 **Codex, by hand:**
 ```bash
-git clone https://github.com/<github-user>/shopify-migration ~/.codex/skills/shopify-migration
+git clone https://github.com/kennyling-ux/shopify-migration ~/.codex/skills/shopify-migration
 ```
 
 Requires **Node.js 22+** for the scripts (no `npm install`).
